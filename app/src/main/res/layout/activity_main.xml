@@ -11,7 +11,7 @@
         android:id="@+id/Textview_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Professor E-mail"
+        android:text="공학설계입문"
         android:textSize="30dp"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"/>
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="80dp"
-        android:text="임재한" />
+        android:text="최상호" />
 
     <Button
         android:id="@+id/Pr_Btn_2"
@@ -30,16 +30,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="80dp"
-        android:text="임재재한재한" />
-
-    <Button
-        android:id="@+id/Pr_Btn_3"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:text="임재한재한재한재한" />
-
-
+        android:text="임재한" />
 
 </LinearLayout>
