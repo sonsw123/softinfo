@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button Pr_Btn_1;
     Button Pr_Btn_2;
-    Button Pr_Btn_3;
+    //Button Pr_Btn_3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         Pr_Btn_1 = (Button)findViewById(R.id.Pr_Btn_1);
         Pr_Btn_2 = (Button)findViewById(R.id.Pr_Btn_2);
-        Pr_Btn_3 = (Button)findViewById(R.id.Pr_Btn_3);
+        //Pr_Btn_3 = (Button)findViewById(R.id.Pr_Btn_3);
 
         Pr_Btn_1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -28,5 +28,13 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(),"이메일이 복사되었습니다.",Toast.LENGTH_SHORT).show();
             }
         });
+
+        Pr_Btn_2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(getApplicationContext(),"이메일이 복사되었습니다.",Toast.LENGTH_SHORT).show();
+            }
+        });
+
     }
 }

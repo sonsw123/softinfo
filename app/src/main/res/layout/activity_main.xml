@@ -16,30 +16,99 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"/>
 
-    <Button
-        android:id="@+id/Pr_Btn_1"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:text="임재한" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="10dp">
 
-    <Button
-        android:id="@+id/Pr_Btn_2"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:text="임재재한재한" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginHorizontal="20dp">
 
-    <Button
-        android:id="@+id/Pr_Btn_3"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:text="임재한재한재한재한" />
+            <Button
+                android:id="@+id/Pr_Btn_1"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="임재한" />
 
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+            <Button
+                android:id="@+id/Pr_Btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="최상호" />
+
+
+        </LinearLayout>
+    </ScrollView>
 
 
 </LinearLayout>
