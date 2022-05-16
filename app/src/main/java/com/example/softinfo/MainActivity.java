@@ -114,26 +114,7 @@ public class MainActivity extends AppCompatActivity {
         Sub_Btn_10.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, MainActivity11.class);
-                startActivity(intent);
-            }
-        });
-
-        Sub_Btn_11 = findViewById(R.id.Sub_Btn_11);
-        Sub_Btn_11.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, MainActivity12.class);
-                startActivity(intent);
-            }
-        });
-
-        Sub_Btn_12 = findViewById(R.id.Sub_Btn_12);
-        Sub_Btn_12.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, MainActivity13.class);
-                startActivity(intent);
+                Toast.makeText(getApplicationContext(),"이메일이 복사되었습니다.",Toast.LENGTH_SHORT).show();
             }
         });
 
