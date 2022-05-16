@@ -86,7 +86,7 @@
                 android:id="@+id/Sub_Btn_10"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="전공미리보기(OT학기제)-컴정공" />
+                android:text="전공미리보기(OT학기제)" />
 
             <Button
                 android:id="@+id/Sub_Btn_11"
