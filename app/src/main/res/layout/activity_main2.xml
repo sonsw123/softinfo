@@ -32,79 +32,55 @@
                 android:id="@+id/Pr_Btn_1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="임재한" />
+                android:text="박상현" />
 
             <Button
                 android:id="@+id/Pr_Btn_2"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="전도현" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="정재훈" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_4"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="전지은" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_5"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="신정은" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_6"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="이소망" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_7"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="김학현" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_8"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="박보름" />
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Pr_Btn_9"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="최상호" />
-
-            <Button
-                android:id="@+id/Pr_Btn_2"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="최상호" />
-
-            <Button
-                android:id="@+id/Pr_Btn_2"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="최상호" />
-
-            <Button
-                android:id="@+id/Pr_Btn_2"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="최상호" />
-
-            <Button
-                android:id="@+id/Pr_Btn_2"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="최상호" />
+                android:text="손병헌" />
 
 
         </LinearLayout>
