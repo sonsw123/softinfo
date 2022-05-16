@@ -11,10 +11,10 @@
         android:id="@+id/Textview_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="과목을 선택하세요."
-        android:textSize="30sp"
+        android:text="Professor E-mail"
+        android:textSize="30dp"
         android:layout_gravity="center"
-        android:layout_marginTop="30dp"/>
+        android:layout_marginTop="26dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -29,82 +29,58 @@
             android:layout_marginHorizontal="20dp">
 
             <Button
-                android:id="@+id/Sub_Btn_1"
+                android:id="@+id/Pr_Btn_1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="융합적사고와글쓰기" />
+                android:text="박상현" />
 
             <Button
-                android:id="@+id/Sub_Btn_2"
+                android:id="@+id/Pr_Btn_2"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="대학물리학" />
+                android:text="전도현" />
 
             <Button
-                android:id="@+id/Sub_Btn_3"
+                android:id="@+id/Pr_Btn_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="대학화학및실험" />
+                android:text="정재훈" />
 
             <Button
-                android:id="@+id/Sub_Btn_4"
+                android:id="@+id/Pr_Btn_4"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="대학수학및연습" />
+                android:text="전지은" />
 
             <Button
-                android:id="@+id/Sub_Btn_5"
+                android:id="@+id/Pr_Btn_5"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="공학설계입문" />
+                android:text="신정은" />
 
             <Button
-                android:id="@+id/Sub_Btn_6"
+                android:id="@+id/Pr_Btn_6"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="C프로그래밍" />
+                android:text="이소망" />
 
             <Button
-                android:id="@+id/Sub_Btn_7"
+                android:id="@+id/Pr_Btn_7"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="소프트웨어입문세미나" />
+                android:text="김학현" />
 
             <Button
-                android:id="@+id/Sub_Btn_8"
+                android:id="@+id/Pr_Btn_8"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="컴퓨터공학입문세미나" />
+                android:text="박보름" />
 
             <Button
-                android:id="@+id/Sub_Btn_9"
+                android:id="@+id/Pr_Btn_9"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="창의설계입문" />
-
-            <Button
-                android:id="@+id/Sub_Btn_10"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="전공미리보기(OT학기제)-컴정공" />
-
-            <Button
-                android:id="@+id/Sub_Btn_11"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="프로그래밍기초" />
-
-            <Button
-                android:id="@+id/Sub_Btn_12"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="통계학개론" />
-
-            <Button
-                android:id="@+id/Sub_Btn_13"
-                android:layout_width="match_parent"
-                android:layout_height="60dp"
-                android:text="그래픽디자인" />
+                android:text="손병헌" />
 
 
         </LinearLayout>
