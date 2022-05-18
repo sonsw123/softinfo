@@ -11,7 +11,7 @@
         android:id="@+id/Textview_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Department office number"
+        android:text="Department Office Number"
         android:textSize="30dp"
         android:layout_gravity="center"
         android:layout_marginTop="26dp"/>
