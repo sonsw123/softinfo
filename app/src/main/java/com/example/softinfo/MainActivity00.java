@@ -11,20 +11,20 @@ import android.widget.Toast;
 
 public class MainActivity00 extends AppCompatActivity {
 
-    Button Pr_Btn_1;
-    Button Pr_Btn_2;
-    Button Pr_Btn_3;
+    Button Num_Btn_1;
+    Button Num_Btn_2;
+    Button Num_Btn_3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main00);
 
-        Pr_Btn_1 = (Button)findViewById(R.id.Pr_Btn_1);
-        Pr_Btn_2 = (Button)findViewById(R.id.Pr_Btn_2);
-        Pr_Btn_3 = (Button)findViewById(R.id.Pr_Btn_3);
+        Num_Btn_1 = (Button)findViewById(R.id.Num_Btn_1);
+        Num_Btn_2 = (Button)findViewById(R.id.Num_Btn_2);
+        Num_Btn_3 = (Button)findViewById(R.id.Num_Btn_3);
 
-        Pr_Btn_1.setOnClickListener(new View.OnClickListener() {
+        Num_Btn_1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 ClipboardManager clipboardManager = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
@@ -35,7 +35,7 @@ public class MainActivity00 extends AppCompatActivity {
             }
         });
 
-        Pr_Btn_2.setOnClickListener(new View.OnClickListener() {
+        Num_Btn_2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 ClipboardManager clipboardManager = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
@@ -46,7 +46,7 @@ public class MainActivity00 extends AppCompatActivity {
             }
         });
 
-        Pr_Btn_3.setOnClickListener(new View.OnClickListener() {
+        Num_Btn_3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 ClipboardManager clipboardManager = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);

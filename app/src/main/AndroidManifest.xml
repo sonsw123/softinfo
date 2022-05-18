@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Softinfo">
         <activity
+            android:name=".MainActivity001"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity00"
             android:exported="false" />
         <activity
@@ -47,9 +50,6 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity3"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".MainActivity2"

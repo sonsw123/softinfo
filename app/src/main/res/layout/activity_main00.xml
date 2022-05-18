@@ -12,7 +12,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Department Office Number"
-        android:textSize="30dp"
+        android:fontFamily="@font/aoldbathhouse"
+        android:textSize="25sp"
         android:layout_gravity="center"
         android:layout_marginTop="26dp"/>
 
@@ -20,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginBottom="30dp"
-        android:layout_marginTop="10dp">
+        android:layout_marginTop="20dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -29,22 +30,34 @@
             android:layout_marginHorizontal="20dp">
 
             <Button
-                android:id="@+id/Pr_Btn_1"
+                android:id="@+id/Num_Btn_1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="컴퓨터정보공학부" />
+                android:text="컴퓨터정보공학부"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
-                android:id="@+id/Pr_Btn_2"
+                android:id="@+id/Num_Btn_2"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="소프트웨어학부" />
+                android:text="소프트웨어학부"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
-                android:id="@+id/Pr_Btn_3"
+                android:id="@+id/Num_Btn_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="정부융합학부" />
+                android:text="정부융합학부"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
 
 
