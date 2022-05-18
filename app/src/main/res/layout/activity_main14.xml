@@ -14,7 +14,9 @@
         android:text="Professor E-mail"
         android:textSize="30dp"
         android:layout_gravity="center"
-        android:layout_marginTop="26dp"/>
+        android:layout_marginTop="26dp"
+        android:fontFamily="@font/aoldbathhouse"
+        android:layout_marginBottom="20dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -32,7 +34,10 @@
                 android:id="@+id/Pr_Btn_1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="김미화" />
+                android:text="김미화"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:textSize="20sp"/>
 
         </LinearLayout>
     </ScrollView>

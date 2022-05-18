@@ -15,7 +15,8 @@
         android:fontFamily="@font/aoldbathhouse"
         android:textSize="30sp"
         android:layout_gravity="center"
-        android:layout_marginTop="30dp"/>
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -34,91 +35,130 @@
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="융합적사고와글쓰기"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_2"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="대학물리학"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="대학화학및실험"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_4"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="대학수학및연습"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_5"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="공학설계입문"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_6"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="C프로그래밍"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_7"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="소프트웨어입문세미나"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_8"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="컴퓨터공학입문세미나"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_9"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="창의설계입문"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_10"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="전공미리보기(OT학기제)"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_11"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="프로그래밍기초"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_12"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="통계학개론"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:textSize="20sp"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"/>
 
             <Button
                 android:id="@+id/Sub_Btn_13"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="그래픽디자인"
-                android:fontFamily="@font/aoldbathhouse"/>
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
 
         </LinearLayout>

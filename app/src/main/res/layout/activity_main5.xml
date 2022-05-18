@@ -14,7 +14,9 @@
         android:text="Professor E-mail"
         android:textSize="30dp"
         android:layout_gravity="center"
-        android:layout_marginTop="26dp"/>
+        android:layout_marginTop="26dp"
+        android:fontFamily="@font/aoldbathhouse"
+        android:layout_marginBottom="20dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -32,37 +34,60 @@
                 android:id="@+id/Pr_Btn_1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="류송분" />
+                android:text="류송분"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_2"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="백혜숙" />
+                android:text="백혜숙"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="박정준" />
+                android:text="박정준"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_4"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="박주희" />
+                android:text="박주희"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_5"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="박지연" />
+                android:text="박지연"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_6"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="연윤정" />
+                android:text="연윤정"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:textSize="20sp"/>
 
 
 

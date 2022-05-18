@@ -14,7 +14,9 @@
         android:text="Professor E-mail"
         android:textSize="30dp"
         android:layout_gravity="center"
-        android:layout_marginTop="26dp"/>
+        android:layout_marginTop="26dp"
+        android:fontFamily="@font/aoldbathhouse"
+        android:layout_marginBottom="20dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
@@ -32,55 +34,91 @@
                 android:id="@+id/Pr_Btn_1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="박상현" />
+                android:text="박상현"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_2"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="전도현" />
+                android:text="전도현"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="정재훈" />
+                android:text="정재훈"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_4"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="전지은" />
+                android:text="전지은"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_5"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="신정은" />
+                android:text="신정은"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_6"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="이소망" />
+                android:text="이소망"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_7"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="김학현" />
+                android:text="김학현"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_8"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="박보름" />
+                android:text="박보름"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
             <Button
                 android:id="@+id/Pr_Btn_9"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="손병헌" />
+                android:text="손병헌"
+                android:fontFamily="@font/aoldbathhouse"
+                android:background="@drawable/btn_purple"
+                android:layout_marginBottom="10dp"
+                android:textSize="20sp"/>
 
 
         </LinearLayout>
