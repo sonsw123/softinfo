@@ -11,6 +11,6 @@ android:shape="rectangle" android:padding = "10dp">
         android:topRightRadius="5dp"/>
 
     <stroke android:width="2dp"
-        android:color="#8572EE"/
+        android:color="#8572EE"/>
 
 </shape>
