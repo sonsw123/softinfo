@@ -36,7 +36,7 @@
                 android:layout_height="60dp"
                 android:text="박상현"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -46,7 +46,7 @@
                 android:layout_height="60dp"
                 android:text="전도현"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -56,7 +56,7 @@
                 android:layout_height="60dp"
                 android:text="정재훈"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -66,7 +66,7 @@
                 android:layout_height="60dp"
                 android:text="전지은"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -76,7 +76,7 @@
                 android:layout_height="60dp"
                 android:text="신정은"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                aandroid:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -86,7 +86,7 @@
                 android:layout_height="60dp"
                 android:text="이소망"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -96,7 +96,7 @@
                 android:layout_height="60dp"
                 android:text="김학현"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -106,7 +106,7 @@
                 android:layout_height="60dp"
                 android:text="박보름"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -116,7 +116,7 @@
                 android:layout_height="60dp"
                 android:text="손병헌"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 

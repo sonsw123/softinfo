@@ -35,7 +35,7 @@
                 android:layout_height="60dp"
                 android:text="컴퓨터정보공학부"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -45,7 +45,7 @@
                 android:layout_height="60dp"
                 android:text="소프트웨어학부"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 
@@ -55,7 +55,7 @@
                 android:layout_height="60dp"
                 android:text="정부융합학부"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:textSize="20sp"/>
 

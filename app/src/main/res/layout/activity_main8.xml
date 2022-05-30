@@ -36,7 +36,7 @@
                 android:layout_height="60dp"
                 android:text="이강훈"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:textSize="20sp"/>
 
 

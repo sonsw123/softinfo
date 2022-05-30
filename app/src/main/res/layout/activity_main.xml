@@ -37,7 +37,7 @@
                 android:layout_height="60dp"
                 android:text="과사무실 전화번호"
                 android:fontFamily="@font/aoldbathhouse"
-                android:background="@drawable/btn_purple"
+                android:background="@drawable/resource"
                 android:layout_marginBottom="10dp"
                 android:layout_marginHorizontal="20dp"
                 android:textSize="20sp"/>
